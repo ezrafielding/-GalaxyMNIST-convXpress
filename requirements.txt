@@ -1,0 +1,1 @@
+﻿h5py>=2.10.0Keras-Preprocessing>=1.1.2matplotlibtensorboard-plugin-wit>=1.8.0tensorflow-estimator>=2.4.0scikit-learn
